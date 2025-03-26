@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mariam\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\Scripts\\OpenLights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\OpenLights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\Scripts\\OpenLights1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\OpenLights1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\Scripts\\RemoteLightToggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RemoteLightToggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\Scripts\\audiodavid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\audiodavid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\Scripts\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\AudioDavid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AudioDavid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\Scripts\\VoiceOverButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\VoiceOverButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\Scripts\\Light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\Scripts\\PlayAudioOnGrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayAudioOnGrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\Scripts\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mariam\\My project\\Assets\\PlayAudioOnGrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayAudioOnGrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenLights1.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\Scripts\\OpenLights1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OpenLights1.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\Scripts\\OpenLights1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OpenLights1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:40:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoteLightToggle.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\Scripts\\RemoteLightToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RemoteLightToggle.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\Scripts\\RemoteLightToggle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RemoteLightToggle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:39:30.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "remote.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\Scripts\\remote.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\remote.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\Scripts\\remote.cs",
+              "RelativeToolTip": "Assets\\Scripts\\remote.cs",
+              "ViewState": "AgIAABgAAACA0+wnglsIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:03:42.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "audiodavid.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\Scripts\\audiodavid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\audiodavid.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\Scripts\\audiodavid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\audiodavid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:32:07.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AudioDavid.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\AudioDavid.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioDavid.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\AudioDavid.cs",
+              "RelativeToolTip": "Assets\\AudioDavid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:58:23.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VoiceOverButton.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\Scripts\\VoiceOverButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VoiceOverButton.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\Scripts\\VoiceOverButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VoiceOverButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:43:47.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenLights.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\Scripts\\OpenLights.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OpenLights.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\Scripts\\OpenLights.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OpenLights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:35:37.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Light.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\Scripts\\Light.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Light.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\Scripts\\Light.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:33:01.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayAudioOnGrab.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\Scripts\\PlayAudioOnGrab.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayAudioOnGrab.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\Scripts\\PlayAudioOnGrab.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayAudioOnGrab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:44:39.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "print.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\Scripts\\print.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\print.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\Scripts\\print.cs",
+              "RelativeToolTip": "Assets\\Scripts\\print.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:42:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "print.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\print.cs",
+              "RelativeDocumentMoniker": "Assets\\print.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\print.cs",
+              "RelativeToolTip": "Assets\\print.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:34:36.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayAudioOnGrab.cs",
+              "DocumentMoniker": "D:\\mariam\\My project\\Assets\\PlayAudioOnGrab.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayAudioOnGrab.cs",
+              "ToolTip": "D:\\mariam\\My project\\Assets\\PlayAudioOnGrab.cs",
+              "RelativeToolTip": "Assets\\PlayAudioOnGrab.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:57:42.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
